@@ -478,9 +478,6 @@
             "m_Id": "15bfebb22bf64c37a2d36e5ff0955abf"
         },
         {
-            "m_Id": "6401f5bbaa3349dbba7d9834dbbd9c59"
-        },
-        {
             "m_Id": "edf780808d994c5c9a73c47bcf1b2827"
         }
     ],
@@ -736,20 +733,6 @@
     "m_ShaderOutputName": "Sampler",
     "m_StageCapability": 3,
     "m_BareResource": false
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.BooleanMaterialSlot",
-    "m_ObjectId": "6401f5bbaa3349dbba7d9834dbbd9c59",
-    "m_Id": -1335181266,
-    "m_DisplayName": "Hue Mode",
-    "m_SlotType": 0,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "Boolean_2cccc9e383634aefae4a93a4ab571b9a",
-    "m_StageCapability": 2,
-    "m_Value": false,
-    "m_DefaultValue": false
 }
 
 {
