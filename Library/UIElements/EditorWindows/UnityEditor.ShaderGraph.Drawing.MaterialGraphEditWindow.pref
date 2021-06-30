@@ -20,5 +20,5 @@ MonoBehaviour:
   m_Values:
   - '{}'
   - '{}'
-  - '{"position":{"x":917.0,"y":664.0,"z":0.0},"scale":{"x":0.25,"y":0.25,"z":1.0}}'
-  - '{"m_Version":218,"m_SelectedElementsArray":["f0a64297-3bb1-4c40-8d19-fd60172f4ad3","1904a4eac5654b85b095fcadef693a92","61214b83-cb62-48d0-8028-ca0bc5561edc","4ff5897310be4ce5abca488aa260e145","186d3c41-457a-496a-b901-065eb5778272"]}'
+  - '{"position":{"x":724.0,"y":268.0,"z":0.0},"scale":{"x":0.4323275685310364,"y":0.4323275685310364,"z":1.0}}'
+  - '{"m_Version":226,"m_SelectedElementsArray":["f0a64297-3bb1-4c40-8d19-fd60172f4ad3","1904a4eac5654b85b095fcadef693a92","61214b83-cb62-48d0-8028-ca0bc5561edc","4ff5897310be4ce5abca488aa260e145","186d3c41-457a-496a-b901-065eb5778272"]}'

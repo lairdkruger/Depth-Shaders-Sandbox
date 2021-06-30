@@ -1,0 +1,120 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/lairdkruger/Documents/Game Development/Unity Projects/Personal/Depth Shaders Sandbox
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51110
+Successfully changed project path to: /Users/lairdkruger/Documents/Game Development/Unity Projects/Personal/Depth Shaders Sandbox
+/Users/lairdkruger/Documents/Game Development/Unity Projects/Personal/Depth Shaders Sandbox
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 45.20 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/lairdkruger/Documents/Game Development/Unity Projects/Personal/Depth Shaders Sandbox/Assets
+GfxDevice: creating device client; threaded=0
+2021-06-30 10:55:28.325 Unity[53821:3415611] (null) preferred device: Apple M1 (high power)
+2021-06-30 10:55:28.325 Unity[53821:3415611] Metal devices available: 1
+2021-06-30 10:55:28.325 Unity[53821:3415611] 0: Apple M1 (high power)
+2021-06-30 10:55:28.325 Unity[53821:3415611] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56821
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.12f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002312 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 46.99 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.613 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003333 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 47.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.179 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2700 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 209.6 MB.
+System memory in use after: 207.0 MB.
+
+Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 3103.
+Total: 2.942791 ms (FindLiveObjects: 0.191000 ms CreateObjectMapping: 0.049875 ms MarkObjects: 1.354583 ms  DeleteObjects: 1.346417 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/RendererFeatures/DepthDistortion/DepthDistortionShader.shadergraph
+  artifactKey: Guid(dede5bc6638a54e7faa2e01a485d4b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RendererFeatures/DepthDistortion/DepthDistortionShader.shadergraph using Guid(dede5bc6638a54e7faa2e01a485d4b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cba0f7ecedbd4e08785799c4215dc221') in 0.611684 seconds 
+  Import took 0.615081 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 45 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.3 MB.
+System memory in use after: 155.6 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 3103.
+Total: 3.218250 ms (FindLiveObjects: 0.174541 ms CreateObjectMapping: 0.048792 ms MarkObjects: 1.785375 ms  DeleteObjects: 1.209041 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 92.408119 seconds.
+  path: Assets/RendererFeatures/DepthDistortion/DepthDistortionShader.shadergraph
+  artifactKey: Guid(dede5bc6638a54e7faa2e01a485d4b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RendererFeatures/DepthDistortion/DepthDistortionShader.shadergraph using Guid(dede5bc6638a54e7faa2e01a485d4b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb0d912310a46ce9e806c154fb743326') in 0.003357 seconds 
+  Import took 0.006740 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
